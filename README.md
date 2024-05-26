@@ -1,3 +1,3 @@
 # Zookeeper-with-Java
 
-Zookeper taask created with Hyperskill
+Zookeper task created with Hyperskill
